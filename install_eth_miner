@@ -1,0 +1,4 @@
+
+https://github.com/ethereum-mining/ethminer 
+
+# When runing cmake -DETHASHCUDA=ON -DETHASHCL=ON

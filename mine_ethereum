@@ -1,0 +1,1 @@
+./ethminer/build/ethminer/ethminer -U -S us-east.ethash-hub.miningpoolhub.com:20535 -O johncobb.ethworker:x

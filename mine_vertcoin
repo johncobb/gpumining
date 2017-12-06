@@ -1,0 +1,1 @@
+./ccminer/ccminer -a lyra2v2 -o stratum+tcp://hub.miningpoolhub.com:20507 -u cphandheld.vtc_miner_2 -p x
